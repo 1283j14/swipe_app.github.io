@@ -1,4 +1,4 @@
-//# swipe_app.github.io
+# swipe_app.github.io
 
 <!DOCTYPE html>
 <html>
